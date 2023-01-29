@@ -1,5 +1,7 @@
 # Zk app boilerplate
 
+EdDSA signature rollup: compress EdDSA signatures into one zk proof.
+
 ## Pre requisites
 
 * Install rust and [circom2](https://docs.circom.io/getting-started/installation/)
@@ -38,10 +40,3 @@
     ```shell
     yarn workspace app test
     ```
-
-
-## Example: EdDSA signature rollup
-
-Let's compress EdDSA signatures into one zk proof! Go to [tutorial!](./TUTORIAL.md)
-
-To check the complete codes, visit the `tutorial` branch.
