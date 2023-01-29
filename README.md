@@ -1,6 +1,8 @@
 # Zk app boilerplate
 
-EdDSA signature rollup: compress EdDSA signatures into one zk proof.
+Build a ZKP application by providing them with a set of pre-configured files and tools that can be used as a foundation for the application and also a sample application that demonstrate how to use the sample circuit and script in a real-world scenario using the Circom library.
+
+Experiment with EdDSA signature rollup: compress EdDSA signatures into one zk proof. 
 
 ## Pre requisites
 
